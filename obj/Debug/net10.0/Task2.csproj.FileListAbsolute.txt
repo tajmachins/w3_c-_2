@@ -1,0 +1,14 @@
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\obj\Debug\net10.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\obj\Debug\net10.0\Task2.AssemblyInfoInputs.cache
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\obj\Debug\net10.0\Task2.AssemblyInfo.cs
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\obj\Debug\net10.0\Task2.csproj.CoreCompileInputs.cache
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\bin\Debug\net10.0\Task2.exe
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\bin\Debug\net10.0\Task2.deps.json
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\bin\Debug\net10.0\Task2.runtimeconfig.json
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\bin\Debug\net10.0\Task2.dll
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\bin\Debug\net10.0\Task2.pdb
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\obj\Debug\net10.0\Task2.dll
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\obj\Debug\net10.0\refint\Task2.dll
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\obj\Debug\net10.0\Task2.pdb
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
+D:\C_PROJECTS\w3\warsztaty3_zad2\Task2\Task2\obj\Debug\net10.0\ref\Task2.dll
